@@ -1,1 +1,1 @@
-# athento-nx-light-relation-search-
+# athento-nx-light-relations-search
