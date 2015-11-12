@@ -10,7 +10,6 @@
   <install>
     <delete path="${bundle.fileName}.tmp"/>
     <unzip from="${bundle.fileName}" to="${bundle.fileName}.tmp"/>
-    <copy from="${bundle.fileName}.tmp/web/nuxeo.war" to="/"/>
-     <delete path="${bundle.fileName}.tmp"/>
+    <delete path="${bundle.fileName}.tmp"/>
   </install>
 </fragment>
